@@ -1,4 +1,4 @@
-# Robots — vervang example.nl door je eigen domein
+# Robots — eigen domein vervangen
 User-agent: *
 Allow: /
 
@@ -13,4 +13,4 @@ User-agent: PerplexityBot
 Allow: /
 
 # Sitemap
-Sitemap: https://example.nl/sitemap.xml
+Sitemap: https://jeroen-o.github.io/dossiercompleet-2.0/sitemap.xml
