@@ -1,0 +1,16 @@
+# Robots — eigen domein vervangen
+User-agent: *
+Allow: /
+
+# AI scrapers — toestaan of blokkeren naar smaak
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Sitemap
+Sitemap: https://jeroen-o.github.io/dossiercompleet-2.0/sitemap.xml
